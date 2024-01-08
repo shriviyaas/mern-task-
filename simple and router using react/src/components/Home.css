@@ -1,0 +1,19 @@
+.home {
+    /* text-align: center;
+    padding: 20px; */
+    /* margin: 10px; */
+    background-color: rgb(44, 216, 196);
+  }
+
+  .hhome,.phome{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+  }
+
+  .hhome,.phone{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    color: lightpink;
+  }
